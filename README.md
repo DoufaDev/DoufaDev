@@ -1,18 +1,17 @@
 # Hi, I'm Douglas Neves (DoufaDev) 👋
 
-I am a **Game Programmer** and **C# / .NET Developer** focused on creating high-performance games, server-authoritative multiplayer architectures, and interactive systems. 
+I am a **C# / .NET Developer** and **Game Programmer** focused on creating high-performance games, server-authoritative multiplayer architectures, and interactive systems. 
 
 - 🛠️ Currently architecting a server-authoritative 1v1 online card game using **ASP.NET Core** and **SignalR**.
 - ⚙️ Deeply interested in **Event Sourcing**, multiplayer synchronization, Clean Architecture, and telemetry systems.
-- 🏎️ Hobbyist in DIY electronics, having engineered custom hardware integrations using **ESP32** and sensor matrices for racing simulators.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-- **Languages:** C#, C++, SQL, Markdown
-- **Game Development:** Unity, Gameplay Programming, Physics, State Machines
+- **Languages:** C#, JS, SQL, Markdown
 - **Backend & Networking:** .NET Core, ASP.NET, SignalR, WebSockets, Event Sourcing
+- **Game Development:** Unity, Gameplay Programming, Physics, State Machines
 - **Tools & Ecosystem:** Git, GitHub Actions, Visual Studio, JetBrains Rider
 
 ---
@@ -34,4 +33,4 @@ A core multiplayer game framework written in C#, migrating from client-side dete
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doufa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdoufa@gmail.com)
