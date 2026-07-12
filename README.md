@@ -20,7 +20,7 @@ I am a **C# / .NET Developer** and **Game Programmer** focused on creating high-
 
 #### 🃏 Server-Authoritative Card Game Architecture
 A core multiplayer game framework written in C#, migrating from client-side determination to a fully **server-authoritative model**.
-- **Backend:** Built using ASP.NET Core and SignalR for robust real-time communication.
+- **Backend:** Built using ASP.NET Core and WebSockets for robust real-time communication.
 - **State Management:** Employs Event Sourcing to keep track of match states, card executions, and stat triggers (such as speed-based threshold activations).
 - **Design:** Shared C# logic libraries allowing absolute consistency between the server simulation and the Unity client.
 
